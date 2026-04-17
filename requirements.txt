@@ -1,0 +1,11 @@
+# Runtime dependencies for minimal-uds-tester
+
+# UDS protocol client (ReadDataByIdentifier, etc.)
+udsoncan>=1.0
+
+# CAN transport
+python-can>=4.0
+python-isotp>=2.0
+
+# DoIP (Diagnostics over IP, ISO 13400) transport
+doipclient>=1.0
