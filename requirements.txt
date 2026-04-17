@@ -1,0 +1,4 @@
+python-can>=4.0.0
+can-isotp>=2.0.0
+udsoncan>=1.0.0
+doipclient>=2.0.0
